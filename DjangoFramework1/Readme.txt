@@ -1,0 +1,3 @@
+fenv dosyasını oluştururken biraz sıkıntı oldu. Ben yine toparlayıp yavaş yavaş yükleyeceğim.
+terminalinizden haberbulteni dosyasının içinde olduğu klasöre gelip ;
+"$ virtualenv fenv " komutunu yazarak kendiniz oluşturabilirsiniz...
